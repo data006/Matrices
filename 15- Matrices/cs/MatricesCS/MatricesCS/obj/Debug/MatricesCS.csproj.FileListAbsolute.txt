@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\17\cs\MatricesCS\MatricesCS\bin\Debug\MatricesCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\17\cs\MatricesCS\MatricesCS\bin\Debug\MatricesCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\17\cs\MatricesCS\MatricesCS\bin\Debug\MatricesCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\17\cs\MatricesCS\MatricesCS\obj\Debug\MatricesCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\17\cs\MatricesCS\MatricesCS\obj\Debug\MatricesCS.frmMatricesCS.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\17\cs\MatricesCS\MatricesCS\obj\Debug\MatricesCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\17\cs\MatricesCS\MatricesCS\obj\Debug\MatricesCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\17\cs\MatricesCS\MatricesCS\obj\Debug\MatricesCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\17\cs\MatricesCS\MatricesCS\obj\Debug\MatricesCS.pdb
